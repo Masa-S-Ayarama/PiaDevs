@@ -1,0 +1,9 @@
+# Global
+# Mac OS
+.DS_Store
+*.dmg
+
+#Windows OS
+*.com
+*.exe
+
