@@ -21,9 +21,10 @@
 *.tar
 *.zip
  
-# Logs #
+# Logs and API keys #
 ######################
 *.log
+APIKeys.plist
  
 # OS generated files #
 ######################
